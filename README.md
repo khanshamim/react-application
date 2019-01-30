@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/khanshamim/react-application).
 
 ## Screen shots
-![Alt text](/relative/customer-form.PNG?raw=true "customer form")
+![Alt text](customer-form.PNG?raw=true "customer form")
 
 ## Available Scripts
 
