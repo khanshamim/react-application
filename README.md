@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/khanshamim/react-application).
 
+Learn the fundamentals of React, including simple and class components, state, props, and submitting form data.
+
+
 ## Screen shots
+Click to View Project https://khanshamim.github.io/react-tutorial/
+
 ![Alt text](customer-form.PNG?raw=true "customer form")
 
 ## Available Scripts

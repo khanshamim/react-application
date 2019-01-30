@@ -13,10 +13,14 @@ class App extends Component {
 
         return(
             <div className="container">
+            <h1>React Tutorial - Customer Information</h1>
+            <P>React Features - Simple Component, Class Component, Props, State, Working with Form Data and Pulling
+               data in from an API </P>
                 <Table 
                 characterData={characters}
                 removeCharacter={this.removeCharacter}
                 />
+                <h3>Add New Record</h3>
                 <Form handleSubmit={this.handleSubmit}/>
             </div>
         );
